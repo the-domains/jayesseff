@@ -1,7 +1,7 @@
 name: jayesseff
 favicon: null
-layout_spectrum: 0.9544505849480629
-typography_spectrum: 0.6346602593548596
+layout_spectrum: 0.74715
+typography_spectrum: 0.34925
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0
+    - '#1d1415'
+    - '#88a890'
+    - '#5e6b40'
+    - '#fbdbc6'
+    - '#b18264'
+  brandStrength: 0.1875
   lightness: 0.3125
   saturation: 0.1875
   rhythmicContrast: 0.25
